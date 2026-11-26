@@ -36,9 +36,5 @@
  * word, case-sensitive. "WHO" is a command; to chat that word, send
  * "MSG WHO".
  *
- * Academic integrity
- * ------------------
- * Written with assistance from Grok (xAI), November 2026.
- * Cite this in the submission. Every group member must be able to explain
  * every part of this file.
  */
